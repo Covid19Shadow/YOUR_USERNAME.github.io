@@ -1,0 +1,57 @@
+@charset "UTF-8";
+h2  {
+	color: #E21518;
+	background-color: #000000;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	margin-left: -1px;
+	padding-left: 16px;
+	padding-top: 3px;
+}
+h1 {
+	text-align: center;
+	text-decoration: underline;
+	border: medium solid #000000;
+	background-color: #FCFF00;
+}
+.Virusname {
+	color: #FF0004;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+p {
+	margin-left: 15px;
+	padding-left: 0px;
+	padding-top: 0px;
+	margin-top: -8px;
+}
+#SecondParagraph {
+	font-size: large;
+	font-weight: normal;
+	line-height: normal;
+	text-align: center;
+}
+body {
+}
+#nav ul  {
+	color: #11D91A;
+	list-style-type: none;
+	position: fixed;
+	right: 445px;
+	top: 215px;
+}
+#nav ul li {
+	display: inline;
+	position: static;
+	padding-right: 9px;
+	padding-left: 2px;
+	padding-bottom: 0px;
+	margin-right: 7px;
+	margin-top: 0px;
+	margin-left: 2px;
+}
+a   {
+	color: #11D91A;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0004;
+}
